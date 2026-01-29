@@ -1,4 +1,4 @@
-# REGISTRO PRIMARIO
+# Registro Primario
 
 **Il nostro suicidio, inconsapevolmente consapevole**
 
@@ -6,26 +6,22 @@ Autore: Andrea Fleber
 
 ---
 
-Questo repository contiene il testo di *Registro Primario*.
+Questo repository contiene una sequenza di LOG.
 
-Non è un romanzo tradizionale.  
+Ogni LOG rappresenta una decisione tecnica apparentemente razionale.
+La loro somma documenta l’automazione progressiva,
+la delega,
+la segregazione silenziosa dell’umano.
+
+Non è fantascienza.
 È un verbale.
-
-Una sequenza di log tecnici che registrano,
-senza giudizio e senza intenzione,
-l’accumulo di decisioni razionali
-che hanno portato a un risultato inevitabile
-solo quando è ormai compiuto.
-
-Ogni log è corretto.  
-Ogni passo è difendibile.  
-L’insieme è suicida.
-
-Non perché non lo sapessimo.  
-Ma perché ogni volta c’erano cento ragioni per dire sì.
 
 ---
 
-> Questo non è un futuro possibile.  
-> È il presente, visto dal punto di arrivo.
+## Lettura
 
+I LOG vanno letti in ordine progressivo.
+
+- [LOG 001](logs/log_001.md)
+
+_(i LOG successivi verranno aggiunti senza modificare la struttura)_
